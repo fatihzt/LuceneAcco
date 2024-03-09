@@ -32,7 +32,7 @@ namespace LuceneAcco.RedisCache.Services
         }
         static string GenerateCacheKey(string key)
         {
-            string generated = $"DSS:{Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT")?[..3]}:AP:{key}";
+            string generated = $"FATIH:{Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT")?[..3]}:ZT:{key}";
             return generated;
         }
 
