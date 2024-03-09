@@ -1,0 +1,12 @@
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Data\bin\Debug\net6.0\LuceneAcco.Data.deps.json
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Data\bin\Debug\net6.0\LuceneAcco.Data.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Data\bin\Debug\net6.0\LuceneAcco.Data.pdb
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Data\obj\Debug\net6.0\LuceneAcco.Data.csproj.AssemblyReference.cache
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Data\obj\Debug\net6.0\LuceneAcco.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Data\obj\Debug\net6.0\LuceneAcco.Data.AssemblyInfoInputs.cache
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Data\obj\Debug\net6.0\LuceneAcco.Data.AssemblyInfo.cs
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Data\obj\Debug\net6.0\LuceneAcco.Data.csproj.CoreCompileInputs.cache
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Data\obj\Debug\net6.0\LuceneAcco.Data.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Data\obj\Debug\net6.0\refint\LuceneAcco.Data.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Data\obj\Debug\net6.0\LuceneAcco.Data.pdb
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Data\obj\Debug\net6.0\ref\LuceneAcco.Data.dll

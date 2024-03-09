@@ -1,0 +1,17 @@
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.RedisCache\bin\Debug\net6.0\LuceneAcco.RedisCache.deps.json
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.RedisCache\bin\Debug\net6.0\LuceneAcco.RedisCache.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.RedisCache\bin\Debug\net6.0\LuceneAcco.RedisCache.pdb
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.RedisCache\bin\Debug\net6.0\LuceneAcco.Business.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.RedisCache\bin\Debug\net6.0\LuceneAcco.Data.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.RedisCache\bin\Debug\net6.0\LuceneAcco.Business.pdb
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.RedisCache\bin\Debug\net6.0\LuceneAcco.Data.pdb
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.RedisCache\obj\Debug\net6.0\LuceneAcco.RedisCache.csproj.AssemblyReference.cache
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.RedisCache\obj\Debug\net6.0\LuceneAcco.RedisCache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.RedisCache\obj\Debug\net6.0\LuceneAcco.RedisCache.AssemblyInfoInputs.cache
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.RedisCache\obj\Debug\net6.0\LuceneAcco.RedisCache.AssemblyInfo.cs
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.RedisCache\obj\Debug\net6.0\LuceneAcco.RedisCache.csproj.CoreCompileInputs.cache
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.RedisCache\obj\Debug\net6.0\LuceneAcco.RedisCache.csproj.CopyComplete
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.RedisCache\obj\Debug\net6.0\LuceneAcco.RedisCache.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.RedisCache\obj\Debug\net6.0\refint\LuceneAcco.RedisCache.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.RedisCache\obj\Debug\net6.0\LuceneAcco.RedisCache.pdb
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.RedisCache\obj\Debug\net6.0\ref\LuceneAcco.RedisCache.dll

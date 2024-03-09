@@ -1,0 +1,15 @@
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Business\bin\Debug\net6.0\LuceneAcco.Business.deps.json
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Business\bin\Debug\net6.0\LuceneAcco.Business.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Business\bin\Debug\net6.0\LuceneAcco.Business.pdb
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Business\bin\Debug\net6.0\LuceneAcco.Data.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Business\bin\Debug\net6.0\LuceneAcco.Data.pdb
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Business\obj\Debug\net6.0\LuceneAcco.Business.csproj.AssemblyReference.cache
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Business\obj\Debug\net6.0\LuceneAcco.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Business\obj\Debug\net6.0\LuceneAcco.Business.AssemblyInfoInputs.cache
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Business\obj\Debug\net6.0\LuceneAcco.Business.AssemblyInfo.cs
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Business\obj\Debug\net6.0\LuceneAcco.Business.csproj.CoreCompileInputs.cache
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Business\obj\Debug\net6.0\LuceneAcco.Business.csproj.CopyComplete
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Business\obj\Debug\net6.0\LuceneAcco.Business.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Business\obj\Debug\net6.0\refint\LuceneAcco.Business.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Business\obj\Debug\net6.0\LuceneAcco.Business.pdb
+C:\Users\MuhammetFatih.Ozata\source\repos\LuceneAcco\LuceneAcco.Business\obj\Debug\net6.0\ref\LuceneAcco.Business.dll

@@ -1,0 +1,231 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MuhammetFatih.Ozata\\source\\repos\\LuceneAcco\\LuceneAcco.RedisCache\\LuceneAcco.RedisCache.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MuhammetFatih.Ozata\\source\\repos\\LuceneAcco\\LuceneAcco.Business\\LuceneAcco.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MuhammetFatih.Ozata\\source\\repos\\LuceneAcco\\LuceneAcco.Business\\LuceneAcco.Business.csproj",
+        "projectName": "LuceneAcco.Business",
+        "projectPath": "C:\\Users\\MuhammetFatih.Ozata\\source\\repos\\LuceneAcco\\LuceneAcco.Business\\LuceneAcco.Business.csproj",
+        "packagesPath": "C:\\Users\\MuhammetFatih.Ozata\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MuhammetFatih.Ozata\\source\\repos\\LuceneAcco\\LuceneAcco.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MuhammetFatih.Ozata\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\MuhammetFatih.Ozata\\source\\repos\\LuceneAcco\\LuceneAcco.Data\\LuceneAcco.Data.csproj": {
+                "projectPath": "C:\\Users\\MuhammetFatih.Ozata\\source\\repos\\LuceneAcco\\LuceneAcco.Data\\LuceneAcco.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Lucene.Net": {
+              "target": "Package",
+              "version": "[3.0.3, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MuhammetFatih.Ozata\\source\\repos\\LuceneAcco\\LuceneAcco.Data\\LuceneAcco.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MuhammetFatih.Ozata\\source\\repos\\LuceneAcco\\LuceneAcco.Data\\LuceneAcco.Data.csproj",
+        "projectName": "LuceneAcco.Data",
+        "projectPath": "C:\\Users\\MuhammetFatih.Ozata\\source\\repos\\LuceneAcco\\LuceneAcco.Data\\LuceneAcco.Data.csproj",
+        "packagesPath": "C:\\Users\\MuhammetFatih.Ozata\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MuhammetFatih.Ozata\\source\\repos\\LuceneAcco\\LuceneAcco.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MuhammetFatih.Ozata\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.28, )"
+            },
+            "Lucene.Net": {
+              "target": "Package",
+              "version": "[3.0.3, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MuhammetFatih.Ozata\\source\\repos\\LuceneAcco\\LuceneAcco.RedisCache\\LuceneAcco.RedisCache.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MuhammetFatih.Ozata\\source\\repos\\LuceneAcco\\LuceneAcco.RedisCache\\LuceneAcco.RedisCache.csproj",
+        "projectName": "LuceneAcco.RedisCache",
+        "projectPath": "C:\\Users\\MuhammetFatih.Ozata\\source\\repos\\LuceneAcco\\LuceneAcco.RedisCache\\LuceneAcco.RedisCache.csproj",
+        "packagesPath": "C:\\Users\\MuhammetFatih.Ozata\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MuhammetFatih.Ozata\\source\\repos\\LuceneAcco\\LuceneAcco.RedisCache\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MuhammetFatih.Ozata\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\MuhammetFatih.Ozata\\source\\repos\\LuceneAcco\\LuceneAcco.Business\\LuceneAcco.Business.csproj": {
+                "projectPath": "C:\\Users\\MuhammetFatih.Ozata\\source\\repos\\LuceneAcco\\LuceneAcco.Business\\LuceneAcco.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.7.10, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
